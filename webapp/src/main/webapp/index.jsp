@@ -1,6 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Dhanvantari Registration for AWS & DevOps Learning</h1>
+    <h1>Dhanvantari Software trgs Registration for AWS & DevOps Learning</h1>
+    <j>Teaching by Mahesh kumar.</j>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
